@@ -4,3 +4,4 @@ README.md ## Escribo encabezados con distintas dimensiones## #Otro encabezado#
 # Encabezado
 ##Otro encabezado más
 ## Otro encabezado más pero distinto
+Escribo *en negrita* a ver cómo queda
