@@ -1,0 +1,83 @@
+[33mcommit aaadc7fc399f6d368c70de24732a55569c681cfe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:22:01 2018 +0200
+
+    cambios en la rama paralela
+
+[33mcommit 3b7e94d7b0163441d6aa9103d07ae33a4cbc1bcf[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:18:50 2018 +0200
+
+    He hecho cambios manuales en log
+
+[33mcommit 14533e545a72a7d9094ae69b76638525f032d442[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:13:11 2018 +0200
+
+    Anotación en README de la url de la web del repositorio
+
+[33mcommit dca783be38fad0ecc28022319062c44fe18da026[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:05:41 2018 +0200
+
+    He escrito las etiquetas de la página web
+
+[33mcommit b366c8167f286551c1bce0feeaf431b399086833[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:57:13 2018 +0200
+
+    He creado docs y dentro index punto html
+
+[33mcommit 008f09c454b38c96a220041ca414e94a6d9d6cd8[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:48:05 2018 +0200
+
+    he creado log
+
+[33mcommit ac89e230faebd767149e2db37ddf5b01ca264c4f[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:45:10 2018 +0200
+
+    y otra actu de README
+
+[33mcommit 2732e50570bab2e6ba4eaa557bada026c495b5d9[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:43:03 2018 +0200
+
+    nueva actu de README
+
+[33mcommit 3f8461bf625d124795bd8c8206a66768e91d5503[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:40:34 2018 +0200
+
+    actu otra vez README
+
+[33mcommit 12b3a0e1ec76d0e8bf805e19efbce2bcff5c86c3[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:38:45 2018 +0200
+
+    otra actu
+
+[33mcommit b6525448b68ded80074bbf6125a9c526bd037ce4[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:37:02 2018 +0200
+
+    nueva actual readme
+
+[33mcommit ef54eff2a202d57d17a5085cc79ad09943a84522[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:31:02 2018 +0200
+
+    segunda actualizacion readme
+
+[33mcommit be197c2873ac0ef6e5a7f79a6053d361d7113984[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:25:18 2018 +0200
+
+    primeraactualizacionreadme
+
+[33mcommit fd7a21c5bbcbae2856b88291fa8ec2485b9e20c9[m
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 15:21:22 2018 +0200
+
+    first commit

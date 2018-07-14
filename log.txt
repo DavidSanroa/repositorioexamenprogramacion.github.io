@@ -1,3 +1,30 @@
 Fecha del repositorio creado: 14/07/2018
 
 Hash:  repositorioexamenprogramacion.github.io/log.txt 
+
+La cueva del rio@DESKTOP-GG4J0VN MINGW64 ~/Desktop/ExamenProgramacion (master)
+$ git log
+commit aaadc7fc399f6d368c70de24732a55569c681cfe (HEAD -> master, origin/master)
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:22:01 2018 +0200
+
+    cambios en la rama paralela
+
+commit 3b7e94d7b0163441d6aa9103d07ae33a4cbc1bcf
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:18:50 2018 +0200
+
+    He hecho cambios manuales en log
+
+commit 14533e545a72a7d9094ae69b76638525f032d442
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:13:11 2018 +0200
+
+    Anotación en README de la url de la web del repositorio
+
+commit dca783be38fad0ecc28022319062c44fe18da026
+Author: David Sanroa <david.sanroa@gmail.com>
+Date:   Sat Jul 14 16:05:41 2018 +0200
+
+    He escrito las etiquetas de la página web
+:
