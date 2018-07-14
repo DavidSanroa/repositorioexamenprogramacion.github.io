@@ -3,3 +3,4 @@ Este es el repositorio que he creado para el *examen de El Periodista como Progr
 README.md ## Escribo encabezados con distintas dimensiones## #Otro encabezado#
 # Encabezado
 ##Otro encabezado más
+## Otro encabezado más pero distinto
